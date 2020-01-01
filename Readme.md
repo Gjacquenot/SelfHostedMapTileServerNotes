@@ -2,7 +2,8 @@
 
 ## Tile server data
 
-http://download.geofabrik.de
+- http://download.geofabrik.de
+- https://downloadlayer--onlinechart-ol3.netlify.com
 
 ## Tile servers
 
